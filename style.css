@@ -9,6 +9,12 @@ html, body, .page {
   -o-transition: all .6s cubic-bezier(.5, .2, .2, 1.1);  
   color: #fff;
   overflow: hidden; 
+
+}
+
+a {
+  color: white;
+  font-size: 5;
 }
 
 * {
